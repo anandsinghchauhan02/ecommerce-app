@@ -1,0 +1,98 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Laptops"
+        },
+        {
+            "id": 2,
+            "name": "Mobiles"
+        },
+        {
+            "id": 3,
+            "name": "Speakers"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Lenovo",
+            "imageUrl": "https://via.placeholder.com/150",
+            "categoryId": 1
+        },
+        {
+            "id": 2,
+            "name": "Mac",
+            "imageUrl": "https://via.placeholder.com/150",
+            "categoryId": 1
+        },
+        {
+            "id": 3,
+            "name": "Dell",
+            "imageUrl": "https://via.placeholder.com/150",
+            "categoryId": 1
+        },
+        {
+            "id": 4,
+            "name": "iPhone",
+            "imageUrl": "https://via.placeholder.com/150",
+            "categoryId": 2
+        },
+        {
+            "id": 5,
+            "name": "Samsung",
+            "imageUrl": "https://via.placeholder.com/150",
+            "categoryId": 2
+        },
+        {
+            "id": 6,
+            "name": "JBL",
+            "imageUrl": "https://via.placeholder.com/150",
+            "categoryId": 3
+        }
+    ],
+    "productDetails": [
+        {
+            "id": 1,
+            "name": "Lenovo",
+            "imageUrl": "https://via.placeholder.com/150",
+            "description": "Dummy description",
+            "categoryId": 1
+        },
+        {
+            "id": 2,
+            "name": "Mac",
+            "imageUrl": "https://via.placeholder.com/150",
+            "description": "Dummy description",
+            "categoryId": 1
+        },
+        {
+            "id": 3,
+            "name": "Dell",
+            "imageUrl": "https://via.placeholder.com/150",
+            "description": "Dummy description",
+            "categoryId": 1
+        },
+        {
+            "id": 4,
+            "name": "iPhone",
+            "imageUrl": "https://via.placeholder.com/150",
+            "description": "Dummy description",
+            "categoryId": 2
+        },
+        {
+            "id": 5,
+            "name": "Samsung",
+            "imageUrl": "https://via.placeholder.com/150",
+            "description": "Dummy description",
+            "categoryId": 2
+        },
+        {
+            "id": 6,
+            "name": "JBL",
+            "imageUrl": "https://via.placeholder.com/150",
+            "description": "Dummy description",
+            "categoryId": 3
+        }
+    ]
+}
