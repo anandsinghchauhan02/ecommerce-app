@@ -17,37 +17,37 @@
         {
             "id": 1,
             "name": "Lenovo",
-            "imageUrl": "https://via.placeholder.com/150",
+            "imageUrl": "https://rukminim2.flixcart.com/image/850/1000/keaaavk0/computer/x/m/y/lenovo-na-laptop-original-imafuzt8r5jqppfn.jpeg?q=90&crop=false",
             "categoryId": 1
         },
         {
             "id": 2,
             "name": "Mac",
-            "imageUrl": "https://via.placeholder.com/150",
+            "imageUrl": "https://thumbs.dreamstime.com/b/mac-pro-retina-display-isolated-white-blank-screen-apples-new-mac-book-pro-laptop-blank-screen-sports-same-super-30284695.jpg",
             "categoryId": 1
         },
         {
             "id": 3,
             "name": "Dell",
-            "imageUrl": "https://via.placeholder.com/150",
+            "imageUrl": "https://images-cdn.ubuy.co.in/651c28d5a0bff80527198839-dell-inspiron-14-home-business-2-in-1.jpg",
             "categoryId": 1
         },
         {
             "id": 4,
             "name": "iPhone",
-            "imageUrl": "https://via.placeholder.com/150",
+            "imageUrl": "https://static.vecteezy.com/system/resources/previews/011/765/918/original/white-smartphone-model-apple-iphone-14-new-it-industry-original-wallpaper-mockup-for-web-design-on-a-white-background-free-vector.jpg",
             "categoryId": 2
         },
         {
             "id": 5,
             "name": "Samsung",
-            "imageUrl": "https://via.placeholder.com/150",
+            "imageUrl": "https://image.coolblue.nl/424x340/products/2006085",
             "categoryId": 2
         },
         {
             "id": 6,
             "name": "JBL",
-            "imageUrl": "https://via.placeholder.com/150",
+            "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2021/08/5.-JBL_FLIP6_Hero-Shot_RED.jpg",
             "categoryId": 3
         }
     ],
@@ -55,43 +55,43 @@
         {
             "id": 1,
             "name": "Lenovo",
-            "imageUrl": "https://via.placeholder.com/150",
-            "description": "Dummy description",
+            "imageUrl": "https://rukminim2.flixcart.com/image/850/1000/keaaavk0/computer/x/m/y/lenovo-na-laptop-original-imafuzt8r5jqppfn.jpeg?q=90&crop=false",
+            "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
             "categoryId": 1
         },
         {
             "id": 2,
             "name": "Mac",
-            "imageUrl": "https://via.placeholder.com/150",
-            "description": "Dummy description",
+            "imageUrl": "https://thumbs.dreamstime.com/b/mac-pro-retina-display-isolated-white-blank-screen-apples-new-mac-book-pro-laptop-blank-screen-sports-same-super-30284695.jpg",
+            "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
             "categoryId": 1
         },
         {
             "id": 3,
             "name": "Dell",
-            "imageUrl": "https://via.placeholder.com/150",
-            "description": "Dummy description",
+            "imageUrl": "https://images-cdn.ubuy.co.in/651c28d5a0bff80527198839-dell-inspiron-14-home-business-2-in-1.jpg",
+            "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
             "categoryId": 1
         },
         {
             "id": 4,
             "name": "iPhone",
-            "imageUrl": "https://via.placeholder.com/150",
-            "description": "Dummy description",
+            "imageUrl": "https://static.vecteezy.com/system/resources/previews/011/765/918/original/white-smartphone-model-apple-iphone-14-new-it-industry-original-wallpaper-mockup-for-web-design-on-a-white-background-free-vector.jpg",
+            "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
             "categoryId": 2
         },
         {
             "id": 5,
             "name": "Samsung",
-            "imageUrl": "https://via.placeholder.com/150",
-            "description": "Dummy description",
+            "imageUrl": "https://image.coolblue.nl/424x340/products/2006085",
+            "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
             "categoryId": 2
         },
         {
             "id": 6,
             "name": "JBL",
-            "imageUrl": "https://via.placeholder.com/150",
-            "description": "Dummy description",
+            "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2021/08/5.-JBL_FLIP6_Hero-Shot_RED.jpg",
+            "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
             "categoryId": 3
         }
     ]

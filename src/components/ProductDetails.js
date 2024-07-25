@@ -22,7 +22,7 @@ function ProductDetails() {
                 Back
             </button>
             <h1>Product Details</h1>
-            <img src={product.imageUrl} alt={product.name} />
+            <img src={product.imageUrl} alt={product.name} className="product-img-pdp"/>
             <h2>{product.name}</h2>
             <p>{product.description}</p>
         </div>

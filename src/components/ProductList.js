@@ -35,7 +35,7 @@ function ProductList() {
                 {products.map((product) => (
                     <div key={product.id} className="list-item-container text-center">
                         <Link to={`/product/${product.id}`}>
-                            <img src={product.imageUrl} alt={product.name} />
+                            <img src={product.imageUrl} alt={product.name} className="product-img"/>
                             <p>{product.name}</p>
                         </Link>
                     </div>

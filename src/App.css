@@ -24,3 +24,10 @@
 .justify-content-center{
   justify-content: center;
 }
+
+.product-img{
+  width: 80%;
+}
+.product-img-pdp{
+  width: 400px;
+}
